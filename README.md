@@ -6,7 +6,8 @@ Pricing Module v2 Web
 
 ## Prerequisites
 
-### Make sure to setup the server from - (`https://github.com/UmangMahe/pricing-module-server`)
+Make sure to setup the server from - (`https://github.com/UmangMahe/pricing-module-server`)
+
 1) Clone this repository - (`$ git clone https://github.com/UmangMahe/pricing-module-web.git`)
 2) Head on to `src/config/EnvironmentConfig.js`
 2) Change `API_ENDPOINT_URL` to the url of the port number of your server (`Default: http://localhost:3002/api/v2`) (Default: `3002`)

@@ -136,7 +136,7 @@ function App() {
         <br />
 
         <Form.Item >
-          <Button type="primary" htmlType="submit" style={{ width: "200px" }}>Calculate Price</Button>
+          <Button loading={isLoading} type="primary" htmlType="submit" style={{ width: "200px" }}>Calculate Price</Button>
         </Form.Item>
       </Form>
 
